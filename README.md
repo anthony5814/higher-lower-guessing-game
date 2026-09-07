@@ -13,5 +13,5 @@ gcc guessing_game.c -o guessing_game
 ```
 
 3. Execute the Binary:
-- `**Windows:** guessing_game.exe`
-- `**Mac / Linux:** ./guessing_game`
+- `Windows: guessing_game.exe`
+- `Mac / Linux: ./guessing_game`
